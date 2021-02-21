@@ -4,7 +4,8 @@
   - Data Analysis (Python, Pandas, Statistics, Pattern Analysis, Log-Files)
   - OSINT Tools and Sources
 - 🌱 I’m currently learning ...
-  - Udacity Data Engineering Nanodegree
+  - Udacity Data Engineering Nanodegree Program
+  - A lot about myself through reflections on my behaviour and my past
   - A lot about myself by reflecting
 - 💞️ I’m looking to collaborate on ...
   - Don't know yet, still searching...
