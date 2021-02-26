@@ -1,0 +1,12 @@
+# Converting date and time formats from SAS files with Python
+## Introduction
+(datetime64[ns)]
+
+## SAS Date and Time Formats
+
+
+## Examples
+
+## Resources
+Link to SAS documentation about Date and Time formats: https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.4&docsetId=etsug&docsetTarget=etsug_intervals_toc.htm&locale=en
+Overview table of SAS Date Time Formats: https://documentation.sas.com/?cdcId=pgmsascdc&cdcVersion=9.4_3.4&docsetId=etsug&docsetTarget=etsug_intervals_sect009.htm&locale=en
