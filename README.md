@@ -6,7 +6,8 @@
   - OSINT Tools and Sources
 
 ## 🌱 I’m currently learning ...
-  - Udacity Data Engineering Nanodegree Program
+  - new stuff about Python/Pandas each day
+  - Text Pattern Analysis in various contexts (e.g. from sources like PDF, technical strings analysis, filenames, etc.)
   - A lot about myself by reflecting myself
 
 ## 💞️ I’m looking to collaborate on ...
